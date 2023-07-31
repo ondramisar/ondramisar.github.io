@@ -9,4 +9,7 @@ pin: true
 ---
 
 
+{% include data/figure.html %}
+
+
 
