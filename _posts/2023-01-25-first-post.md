@@ -9,7 +9,7 @@ pin: true
 ---
 
 
-{% include attand.html %}
+{% include_relative attand.html %}
 
 
 
